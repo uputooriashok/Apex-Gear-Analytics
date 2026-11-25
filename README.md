@@ -29,3 +29,6 @@ Microsoft Excel | Data Cleaning | Feature Engineering | EDA | KPIs | Slicers | I
 This project helped me understand that data analytics is more than creating charts. It's about asking the right questions, understanding the story behind the numbers, and turning raw data into meaningful business insights.
 
 Feedback and suggestions are always welcome!
+
+##Dashboard Preview<img width="1066" height="852" alt="Dashboard_Preview png" src="https://github.com/user-attachments/assets/7f63b237-8e69-4e20-bbae-94049203cf12" />
+
